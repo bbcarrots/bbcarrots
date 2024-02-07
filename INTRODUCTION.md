@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @bbcarrots a.k.a Zarah
-- 👀 I’m interested in programming android
-applications.
-- 🌱 I’m on-and-off learning about Kotlin 
-and using it in Android Studio. I also
-know a bit of Python from a previous class.
+- 👋 Hi, I’m Zarah a.k.a @bbcarrots
+- 👀 I’m interested in anything programming! I'm always learning how to improve my Python, JavaScript, and C.
+- 🌱 I'm a BS CS student from the University of the Philippines, Diliman.
 
 <!---
 bbcarrots/bbcarrots is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
