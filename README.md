@@ -11,7 +11,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbcarrots&layout=compact&langs_count=8&theme=github_dark_dimmed">
-  <img src="https://github-readme-stats.vercel.app/api?username=bbcarrots&hide_rank=true&theme=github_dark_dimmed">
-</p>
+<div align="center" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbcarrots&layout=compact&langs_count=8&theme=github_dark&hide_border">&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=bbcarrots&hide_rank=true&theme=github_dark">
+</div>
